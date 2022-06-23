@@ -1,0 +1,2 @@
+HELLO_COURSE="Hello course"
+echo $HELLO_COURSE
