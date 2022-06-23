@@ -1,4 +1,6 @@
 # task0
+
+##1
 file script.rb makes simple calculation: adds 10 to 10.
 
 To run the programm you need to:
@@ -7,3 +9,10 @@ To run the programm you need to:
 3. enter a folder with file using cd file/path in your terminal
 4. write ruby script.rb in your terminal
 
+##2
+
+file bash_script.txt contains a script that creates and read env var
+
+to run this script you need to:
+1. open your terminal
+2. copy and paste text from file to your terminal
